@@ -6,4 +6,4 @@
 <dt>https://www.freepik.com/free-vector/mountains-cleft-view-from-bottom-night-scenery-landscape-with-high-rocks-full-moon-with-stars-glowing-peaks_13194970.htm#page=1&query=Scene&position=38<dd><b>Pack de Imagens do Freepik</b></dd></dt>
 <dt>https://youtu.be/1wfeqDyMUx4<dd><b>Link do vídeo do código</b></dd></dt>
 </dl>
-<h3>É um site onde tem um efeito de rolagem animado com as estrelas, lua, montanha, botão e header animado<br><br>Bom café a todos☕</h3>
+<h3>É um site onde tem um efeito de rolagem com as estrelas, lua, montanha, botão e header animado<br><br>Bom café a todos☕</h3>
